@@ -5,3 +5,5 @@ function multiplicationTable(number){
     }
 }
 multiplicationTable(5)
+console.log("Functionality of different  operators using the package that Installed:")
+console.log (`SumofTwoNumbers = ${add (1,5)}`)
