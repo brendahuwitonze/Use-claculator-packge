@@ -1,0 +1,15 @@
+{
+  "name": "use-calculator-package",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brendah",
+  "license": "ISC",
+  "dependencies": {
+    "uwitonze-basic-calculator": "^1.0.0"
+  }
+}
