@@ -7,3 +7,5 @@ function multiplicationTable(number){
 multiplicationTable(5)
 console.log("Functionality of different  operators using the package that Installed:")
 console.log (`SumofTwoNumbers = ${add (1,5)}`)
+console.log (`SubtractionOfTwoNumbers = ${subtract(3,2)}`)
+console.log (`divideTwoNUmbers = ${divide(8,4)}`)
